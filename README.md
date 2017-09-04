@@ -1,7 +1,10 @@
 # meugs
 Painel de acompanhamento de chamados em tempo real na ServiceNow
 
-Para facilitar onde os especialistas da globo.com devem atuar, foi criado o MEUGS, um painel de acompanhamento dos chamados que precisam ser atuados e seus respectivos avanços
+![alt text](https://github.com/velosos/globoguru/blob/master/guru/core/static/img/Captura%20de%20Tela%202017-09-04%20%C3%A0s%2015.00.57.png)
+
+
+Para facilitar onde os especialistas da globo.com devem atuar, foi criado o MEUGS, um painel de acompanhamento dos chamados que precisam ser atuados e seus respectivos avanços. No exemplo da imagem acima, a tabela usada é a de *problem* (PRB)
 
 O layout foi inspirado nesse tema em bootstrap: 
 https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html
